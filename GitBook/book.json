@@ -1,0 +1,179 @@
+{
+    "title": "GitBook 使用教程",
+    "description": "记录 GitBook 的配置和一些插件的使用",
+    "author": "S",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "https://www.ds-vip.top"
+        }
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus@^0.0.11",
+        "-highlight",
+        "-livereload",
+        "simple-page-toc@^0.1.1",
+        "github@^2.0.0",
+        "github-buttons@2.1.0",
+        "edit-link@^2.0.2",
+        "disqus@^0.1.0",
+        "prism@^2.1.0",
+        "prism-themes@^0.0.2",
+        "advanced-emoji@^0.2.1",
+        "anchors@^0.7.1",
+        "include-codeblock@^3.0.2",
+        "ace@^0.3.2",
+        "emphasize@^1.1.0",
+        "katex@^1.1.3",
+        "splitter@^0.0.8",
+        "mermaid-gb3@2.1.0",
+        "tbfed-pagefooter@^0.0.1",
+        "expandable-chapters-small@^0.1.7",
+        "sectionx@^3.1.0",
+        "donate@^1.0.2",
+        "local-video@^1.0.1",
+        "sitemap-general@^0.1.1",
+        "anchor-navigation-ex@0.1.8",
+        "favicon@^0.0.2",
+        "todo@^0.1.3",
+        "3-ba@^0.9.0",
+        "terminal@^0.3.2",
+        "alerts@^0.2.0",
+        "include-csv@^0.1.0",
+        "puml@^1.0.1",
+        "musicxml@^1.0.2",
+        "klipse@^1.2.0",
+        "rss@^3.0.2",
+        "-sharing",
+        "sharing-plus@^0.0.2",
+        "graph@^0.1.0",
+        "chart@^0.2.0",
+        "ga",
+        "copy-code-button"
+    ],
+
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+    	"ga": {
+        	"token": "UA-123686345-1"
+    	}
+        "disqus": {
+            "shortName": "ds19991999"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/ds19991999/repository"
+        },
+        "github-buttons": {
+            "repo": "ds19991999/repository",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        },
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "edit": true
+        },
+        "sharing": {
+           "douban": false,
+           "facebook": true,
+           "google": true,
+           "hatenaBookmark": false,
+           "instapaper": false,
+           "line": false,
+           "linkedin": false,
+           "messenger": false,
+           "pocket": false,
+           "qq": false,
+           "qzone": false,
+           "stumbleupon": false,
+           "twitter": true,
+           "viber": false,
+           "vk": false,
+           "weibo": true,
+           "whatsapp": false,
+           "all": [
+               "facebook", "google", "twitter",
+               "weibo", "instapaper", "linkedin",
+               "pocket", "stumbleupon", "qq", "qzone"
+           ]
+       },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © ds-vip.top 2018",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "3-ba": {
+            "token": "e0f7e2879e5634cc0f587da6721b6860"
+        },
+        "donate": {
+            "wechat": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/images/weipayimg.png",
+            "alipay": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/images/alipayimg.jpg",
+            "title": "意思意思？",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "edit-link": {
+            "base": "https://github.com/ds19991999/repository/edit/master",
+            "label": "Edit"
+        },
+        "sitemap-general": {
+            "prefix": "http://www.ds-vip.top/repository/  站点源文件地址"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "favicon": {
+            "shortcut": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/favicon.png",
+            "bookmark": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/favicon.png"
+        },
+        "terminal": {
+            "copyButtons": true,
+            "fade": false,
+            "style": "flat"
+        },
+
+        "rss": {
+            "title": "GitBook 使用教程",
+            "description": "记录 GitBook 的配置和一些插件的使用",
+            "author": "S",
+            "feed_url": "rss地址",
+            "site_url": "网站首页地址",
+            "managingEditor": "super@ds-vip.top",
+            "webMaster": "super@ds-vip.top",
+            "categories": [
+                "gitbook"
+            ]
+        }
+    }
+}

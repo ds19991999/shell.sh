@@ -1,0 +1,38 @@
+site_name: Python
+site_url: https://ds-ebooks.github.io/
+repo_url: https://github.com/ds-ebooks/ds-ebooks.github.com/
+repo_name: GitHub
+site_description: Use for Python Data Analysis. Life is short. Use Python.
+site_author: ds19991999
+# site_favicon: null
+#site_favicon: favicon.ico
+copyright: Copyright © 2018 ds19991999
+# google_analytics:
+# pages:
+# - Home: index.md
+# - Python2: Python2/index.md
+# - Date-Structure:
+#     - Date-Structure: Date-Structure/index.md
+# - VerCode:
+#     - VerCode: VerCode/index.md
+
+# 修改默认主题:https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+# pip2 install mkdocs-bootswatch
+# 主题：readthedocs|mkdocs|Alabaster|Cinder|docSkimmer
+# Material|ReadTheDocs-Dropdown|Windmill|docSkimmer
+# Bootstrap|Bootswatch|PSinder|cosmo|cerulean|spacelab
+# cyborg|united|amelia|yeti|journal|readable|simplex|slate|flatly
+theme: readthedocs
+use_directory_urls: false
+# theme_dir: null #自定义主题
+docs_dir: 'docs'
+site_dir: 'site'
+# extra_css:
+# extra_javascript: 
+# markdown_extensions: [smartypants]
+# markdown_extensions:
+#   #高亮
+#   - codehilite(css_class=code)
+#   - admonition
+#   - toc:
+#       permalink: '#'
