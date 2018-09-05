@@ -1,6 +1,6 @@
 {
-    "title": "GitBook 使用教程",
-    "description": "记录 GitBook 的配置和一些插件的使用",
+    "title": "学习向导",
+    "description": "提供专业化的书单，为自己建立一个清晰的学习路线.",
     "author": "S",
     "output.name": "site",
     "language": "zh-hans",
@@ -15,6 +15,7 @@
         }
     },
     "plugins": [
+	    "theme-comscore",
         "-lunr",
         "-search",
         "search-plus@^0.0.11",
@@ -24,7 +25,6 @@
         "github@^2.0.0",
         "github-buttons@2.1.0",
         "edit-link@^2.0.2",
-        "disqus@^0.1.0",
         "prism@^2.1.0",
         "prism-themes@^0.0.2",
         "advanced-emoji@^0.2.1",
@@ -66,20 +66,17 @@
         },
     	"ga": {
         	"token": "UA-123686345-1"
-    	}
-        "disqus": {
-            "shortName": "ds19991999"
-        },
+    	},
         "prism": {
             "css": [
                 "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
             ]
         },
         "github": {
-            "url": "https://github.com/ds19991999/repository"
+            "url": "https://github.com/ds-ebooks/Guide.git"
         },
         "github-buttons": {
-            "repo": "ds19991999/repository",
+            "repo": "ds-ebooks/Guide",
             "types": [
                 "star",
                 "watch",
@@ -95,7 +92,7 @@
         "sharing": {
            "douban": false,
            "facebook": true,
-           "google": true,
+           "google": false,
            "hatenaBookmark": false,
            "instapaper": false,
            "line": false,
@@ -108,7 +105,7 @@
            "twitter": true,
            "viber": false,
            "vk": false,
-           "weibo": true,
+           "weibo": false,
            "whatsapp": false,
            "all": [
                "facebook", "google", "twitter",
@@ -117,7 +114,7 @@
            ]
        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © ds-vip.top 2018",
+            "copyright": "Copyright © 2018 S",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -137,11 +134,11 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/ds19991999/repository/edit/master",
+            "base": "https://github.com/ds-ebooks/Guide/edit/gh-pages",
             "label": "Edit"
         },
         "sitemap-general": {
-            "prefix": "http://www.ds-vip.top/repository/  站点源文件地址"
+            "prefix": "http://ds-ebooks.github.io/Guide/"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": true,
@@ -154,8 +151,8 @@
             "tag": "b"
         },
         "favicon": {
-            "shortcut": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/favicon.png",
-            "bookmark": "https://raw.githubusercontent.com/ds19991999/ds19991999.github.io/master/assets/favicon.png"
+            "shortcut": "favicon.png",
+            "bookmark": "favicon.png"
         },
         "terminal": {
             "copyButtons": true,
@@ -164,11 +161,11 @@
         },
 
         "rss": {
-            "title": "GitBook 使用教程",
-            "description": "记录 GitBook 的配置和一些插件的使用",
+            "title": "学习向导",
+            "description": "提供专业化的书单，为自己建立一个清晰的学习路线.",
             "author": "S",
-            "feed_url": "rss地址",
-            "site_url": "网站首页地址",
+            "feed_url": "http://ds-ebooks.github.io/Guide/sitmap.xml",
+            "site_url": "http://ds-ebooks.github.io/Guide/",
             "managingEditor": "super@ds-vip.top",
             "webMaster": "super@ds-vip.top",
             "categories": [
