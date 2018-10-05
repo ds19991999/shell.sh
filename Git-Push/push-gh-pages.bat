@@ -5,7 +5,7 @@ git init
 echo "准备初始化仓库...OK"
 
 echo "添加远程仓库..."
-git remote add origin your-repository
+git remote add origin https://github.com/ds-ebooks/Guide.git
 echo "添加远程仓库...OK"
 
 echo "开始提交本地文件..."
