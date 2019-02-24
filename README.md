@@ -10,7 +10,7 @@
 
 * *[宝塔6更新脚本](./bt6-update.sh):* [bt6-update.sh](./bt6-update.sh)
 * *[iptables封禁垃圾邮件](./ban_iptables.sh)：*[ban_iptables.sh](./ban_iptables.sh)
-* *[GCP配置允许root的ssh登录](./gcp_root_ssh)：*[gcp_root_ssh](./gcp_root_ssh)
+* *[GCP配置允许root的ssh登录](./gcp_root_ssh.sh)：*[gcp_root_ssh.sh](./gcp_root_ssh.sh)
 
 ## 代理相关
 
