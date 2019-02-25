@@ -9,4 +9,4 @@ else
     sed -i "s@bt-tracker.*@bt-tracker=$list@g" /root/.aria2/conf/aria2.conf
     echo update......
 fi
-service aria2 stop
+service aria2 start
