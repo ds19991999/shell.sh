@@ -16,7 +16,8 @@
 
 - *[ubuntu的wireguard一键脚本](./ubuntu_wireguard_install.sh)：*[ubuntu_wireguard_install.sh](./ubuntu_wireguard_install.sh)
 - *[v2ray一键脚本](./v2ray.sh)：*[v2ray.sh](./v2ray.sh)
-- *[ss一键脚本](./ss)：*[ss](./ss)
+- *[SS一键脚本](./ss)：*[ss](./ss)
+- *[秋水SS四合一脚本](https://github.com/teddysun/shadowsocks_install)*：[shadowsocks-all.sh](./shadowsocks-all.sh)
 - *[mtproxy一键脚本](./mtproxy.sh)：*[mtproxy.sh](./mtproxy.sh)
 - *[mtproxy-go一键脚本](./mtproxy.sh)：*[mtproxy.sh](./mtproxy.sh)
 - *[VPS测速脚本](./speedtest.sh)：*[speedtest.sh](./speedtest.sh)
