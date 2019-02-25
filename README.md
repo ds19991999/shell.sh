@@ -25,12 +25,10 @@
 ## 工具相关
 
 * *[FileBrowser一键安装脚本](./filebrowser.sh)：*[filebrowser.sh](./filebrowser.sh)
-
 * *[aria2下载及配置脚本](./aria2.sh)：*[aria2.sh](./aria2.sh)
+* *[aria2配置trackers更新](./trackers-list-aria2.sh)：*[trackers-list-aria2.sh](./trackers-list-aria2.sh)
 * *[检测Gmail的可用性](./check_gmail.sh):* [check_gmail.sh](./check_gmail.sh)
-
 * *[GoogleDrive文件直链获取脚本](./gdlink.sh)：*[gdlink.sh](./gdlink.sh)
-
 * *[GitHub自定义短链脚本](./shortgit.sh)：*[shortgit.sh](./shortgit.sh)
 * *[Telegram用户名更新](./tg_username_update.py)：*[tg_username_update.py](./tg_username_update.py)
 * *[tree的markdown格式输出](./tree-md.sh)：*[tree-md.sh](./tree-md.sh)
