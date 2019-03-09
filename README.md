@@ -20,6 +20,7 @@
 - *[秋水SS四合一脚本](https://github.com/teddysun/shadowsocks_install)*：[shadowsocks-all.sh](./shadowsocks-all.sh)
 - *[mtproxy一键脚本](./mtproxy.sh)：*[mtproxy.sh](./mtproxy.sh)
 - *[mtproxy-go一键脚本](./mtproxy.sh)：*[mtproxy.sh](./mtproxy.sh)
+- *[socket5代理](./gost-socket5-go.sh)：*[gost-socket5-go.sh](./gost-socket5-go.sh)
 - *[VPS测速脚本](./speedtest.sh)：*[speedtest.sh](./speedtest.sh)
 
 ## 工具相关
