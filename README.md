@@ -35,4 +35,4 @@
 * `GitHub`自定义短链脚本：[shortgit.sh](./shortgit.sh)
 * `Telegram`用户名更新：[tg_username_update.py](./tg_username_update.py)
 * `tree`的`markdown`格式输出：[tree-md.sh](./tree-md.sh)
-* [Pyone](https://github.com/abbeyokgo/PyOne) `3.0/4.0`一键脚本：[Pyone.sh](./Pyone.sh)
+* [Pyone](https://github.com/abbeyokgo/PyOne) `3.0/4.0`一键脚本：[PyOne.sh](./PyOne.sh)
