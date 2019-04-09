@@ -1,0 +1,16 @@
+127.0.0.1	localhost
+127.0.1.1	debian
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+# github
+219.76.4.4 github-cloud.s3.amazonaws.com
+151.101.72.249 http://global-ssl.fastly.Net
+192.30.253.112 http://github.com
+
+#sublime crack
+127.0.0.1 www.sublimetext.com
+127.0.0.1 license.sublimehq.com
