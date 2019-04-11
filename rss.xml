@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Shuai Ding from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Kindle" title="Kindle">
+      <outline text="The Associated Press" title="The Associated Press" type="rss" xmlUrl="https://feedx.net/rss/ap.xml" htmlUrl="https://apnews.com/"/>
+      <outline text="The Economist" title="The Economist" type="rss" xmlUrl="https://feedx.net/rss/economist.xml" htmlUrl="https://www.economist.com/"/>
+      <outline text="左岸读书" title="左岸读书" type="rss" xmlUrl="https://help.feedx.net/rss/zreading.xml" htmlUrl="http://www.zreading.cn/"/>
+      <outline text="VOA Learning English" title="VOA Learning English" type="rss" xmlUrl="https://feedx.net/rss/voalearningenglish.xml" htmlUrl="http://voanews.com/"/>
+      <outline text="ChinaDaily双语" title="ChinaDaily双语" type="rss" xmlUrl="https://feedx.net/rss/cddual.xml" htmlUrl="https://language.chinadaily.com.cn/"/>
+      <outline text="The Washington Post" title="The Washington Post" type="rss" xmlUrl="https://feedx.net/rss/washingtonpost.xml" htmlUrl="https://www.washingtonpost.com/"/>
+      <outline text="The Economist Print edition" title="The Economist Print edition" type="rss" xmlUrl="https://feedx.net/rss/economistp.xml" htmlUrl="https://www.economist.com/"/>
+    </outline>
+    <outline text="漫画动漫" title="漫画动漫">
+      <outline text="动画-Animen动漫平台" title="动画-Animen动漫平台" type="rss" xmlUrl="https://rss.creat.kim/animen/news/dh" htmlUrl="https://www.animen.com.tw/animen_web/web/news_index?&amp;news_category_id=16"/>
+      <outline text="pixiv 月排行" title="pixiv 月排行" type="rss" xmlUrl="https://rss.creat.kim/pixiv/ranking/month/" htmlUrl="https://www.pixiv.net/ranking.php?mode=monthly"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="博客订阅" title="博客订阅">
+      <outline text="Rat's Blog" title="Rat's Blog" type="rss" xmlUrl="https://www.moerats.com/feed" htmlUrl="https://www.moerats.com/"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="http://feeds.feedburner.com/programthink" htmlUrl="http://program-think.blogspot.com/"/>
+      <outline text="神代綺凜の萌化小基地" title="神代綺凜の萌化小基地" type="rss" xmlUrl="https://moe.best/feed" htmlUrl="https://moe.best/"/>
+      <outline text="如有乐享" title="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed/" htmlUrl="https://51.ruyo.net/"/>
+    </outline>
+    <outline text="编程资讯" title="编程资讯">
+      <outline text="V2EX - LeetCode" title="V2EX - LeetCode" type="rss" xmlUrl="https://www.v2ex.com/feed/leetcode.xml" htmlUrl="https://www.v2ex.com/"/>
+      <outline text="看雪论坛最新主题 - 密码算法" title="看雪论坛最新主题 - 密码算法" type="rss" xmlUrl="https://rss.creat.kim/pediy/topic/crypto/latest" htmlUrl="https://bbs.pediy.com/forum-132.html"/>
+      <outline text="V2EX - Linux" title="V2EX - Linux" type="rss" xmlUrl="https://www.v2ex.com/feed/linux.xml" htmlUrl="https://www.v2ex.com/"/>
+      <outline text="后端——segmentfault" title="后端——segmentfault" type="rss" xmlUrl="https://rss.creat.kim/segmentfault/channel/backend" htmlUrl="https://segmentfault.com/channel/backend"/>
+      <outline text="V2EX - Python" title="V2EX - Python" type="rss" xmlUrl="https://www.v2ex.com/feed/python.xml" htmlUrl="https://www.v2ex.com/"/>
+    </outline>
+    <outline text="娱乐八卦" title="娱乐八卦">
+      <outline text="懂球帝" title="懂球帝" type="rss" xmlUrl="https://feedx.net/rss/dongqiudi.xml" htmlUrl="http://www.dongqiudi.com/"/>
+      <outline text="United Nations Security Council Vetoed Resolutions" title="United Nations Security Council Vetoed Resolutions" type="rss" xmlUrl="https://rss.creat.kim/un/scveto" htmlUrl="http://research.un.org/en/docs/sc/quick/veto"/>
+      <outline text="果壳科学人" title="果壳科学人" type="rss" xmlUrl="https://feedx.net/rss/guokrscientific.xml" htmlUrl="https://feedx.net/rss/guokrscientific.xml"/>
+      <outline text="cnbeta排行" title="cnbeta排行" type="rss" xmlUrl="https://feedx.net/rss/cnbetatop.xml" htmlUrl="https://feedx.net/rss/cnbetatop.xml"/>
+      <outline text="维基首页" title="维基首页" type="rss" xmlUrl="https://feedx.net/rss/wikiindex.xml" htmlUrl="https://www.wikipedia.org/"/>
+      <outline text="历史上的今天" title="历史上的今天" type="rss" xmlUrl="https://feedx.net/rss/wikihistory.xml" htmlUrl="https://www.wikipedia.org/"/>
+      <outline text="最新政策 - 中国政府网" title="最新政策 - 中国政府网" type="rss" xmlUrl="https://rss.creat.kim/gov/zhengce/zuixin" htmlUrl="http://www.gov.cn/zhengce/zuixin.htm"/>
+    </outline>
+    <outline text="我的博客" title="我的博客">
+      <outline text="ds19991999的博客" title="ds19991999的博客" type="rss" xmlUrl="https://blog.csdn.net/ds19991999/rss/list" htmlUrl="https://blog.csdn.net/ds19991999"/>
+      <outline text="C.K 的评论" title="C.K 的评论" type="rss" xmlUrl="https://www.creat.kim/feed/comments/" htmlUrl="https://www.creat.kim/"/>
+      <outline text="C.K" title="C.K" type="rss" xmlUrl="https://www.creat.kim/feed/" htmlUrl="https://www.creat.kim/"/>
+    </outline>
+    <outline text="高分电影" title="高分电影">
+      <outline text="高清电台" title="高清电台" type="rss" xmlUrl="https://rss.creat.kim/gaoqing/latest" htmlUrl="https://gaoqing.fm/"/>
+      <outline text="开眼" title="开眼" type="rss" xmlUrl="https://feedx.net/rss/kaiyan.xml" htmlUrl="http://www.kaiyanapp.com/"/>
+      <outline text="电影天堂" title="电影天堂" type="rss" xmlUrl="https://rss.creat.kim/dytt" htmlUrl="http://www.dytt8.net/"/>
+      <outline text="3dmgame" title="3dmgame" type="rss" xmlUrl="https://feedx.net/rss/3dmgame.xml" htmlUrl="http://www.3dmgame.com/"/>
+      <outline text="电影 - 高清MP4吧" title="电影 - 高清MP4吧" type="rss" xmlUrl="https://rss.creat.kim/mp4ba/1" htmlUrl="http://www.mp4ba.com/?m=vod-type-id-1.html"/>
+      <outline text="豆瓣电影周榜" title="豆瓣电影周榜" type="rss" xmlUrl="https://feedx.net/rss/doubanmvweek.xml" htmlUrl="https://www.douban.com/"/>
+    </outline>
+    <outline text="图说天下" title="图说天下">
+      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="https://feedx.net/rss/natgeo.xml" htmlUrl="https://www.nationalgeographic.com/"/>
+      <outline text="必应今日美图" title="必应今日美图" type="rss" xmlUrl="https://feedx.net/rss/bingwallpaper.xml" htmlUrl="http://bing.com/"/>
+      <outline text="NASA" title="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/"/>
+      <outline text="必应今日美图国际版" title="必应今日美图国际版" type="rss" xmlUrl="https://feedx.net/rss/bingenwallpaper.xml" htmlUrl="http://bing.com/"/>
+      <outline text="摄影世界" title="摄影世界" type="rss" xmlUrl="https://feedx.net/rss/photoworld.xml" htmlUrl="https://www.photoworld.com.cn/"/>
+      <outline text="喷嚏图卦" title="喷嚏图卦" type="rss" xmlUrl="https://feedx.net/rss/pentitugua.xml" htmlUrl="https://feedx.net/rss/pentitugua.xml"/>
+      <outline text="每日环球视野" title="每日环球视野" type="rss" xmlUrl="http://feedx.net/rss/idaily.xml" htmlUrl="http://m.idai.ly/"/>
+    </outline>
+    <outline text="RSS源" title="RSS源">
+      <outline text="Typora Changelog" title="Typora Changelog" type="rss" xmlUrl="https://rss.creat.kim/typora/changelog" htmlUrl="https://support.typora.io/"/>
+      <outline text="RSSHub 有新路由啦" title="RSSHub 有新路由啦" type="rss" xmlUrl="https://rss.creat.kim/rsshub/rss" htmlUrl="https://docs.rsshub.app/"/>
+      <outline text="FeedX" title="FeedX" type="rss" xmlUrl="https://feedx.net/feed" htmlUrl="https://feedx.net/"/>
+    </outline>
+  </body>
+</opml>
