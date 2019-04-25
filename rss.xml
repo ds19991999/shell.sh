@@ -13,12 +13,13 @@
       <outline text="文汇报笔会" title="文汇报笔会" type="rss" xmlUrl="https://help.feedx.net/rss/wenhuibh.xml" htmlUrl="http://www.whb.cn/"/>
     </outline>
     <outline text="英文杂志" title="英文杂志">
+      <outline text="The Guardian" title="The Guardian" type="rss" xmlUrl="https://feedx.net/rss/guardian.xml" htmlUrl="https://theguardian.com/"/>
       <outline text="The Associated Press" title="The Associated Press" type="rss" xmlUrl="https://feedx.net/rss/ap.xml" htmlUrl="https://apnews.com/"/>
       <outline text="The Economist" title="The Economist" type="rss" xmlUrl="https://feedx.net/rss/economist.xml" htmlUrl="https://www.economist.com/"/>
-      <outline text="The New Yorker" title="The New Yorker" type="rss" xmlUrl="https://help.feedx.net/rss/newyorker.xml" htmlUrl="https://www.newyorker.com/"/>
       <outline text="VOA Learning English" title="VOA Learning English" type="rss" xmlUrl="https://feedx.net/rss/voalearningenglish.xml" htmlUrl="http://voanews.com/"/>
-      <outline text="The Guardian" title="The Guardian" type="rss" xmlUrl="https://feedx.net/rss/guardian.xml" htmlUrl="https://theguardian.com/"/>
+      <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="http://feeds.feedburner.com/feedsapi/BwPx" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="The Washington Post" title="The Washington Post" type="rss" xmlUrl="https://feedx.net/rss/washingtonpost.xml" htmlUrl="https://www.washingtonpost.com/"/>
+      <outline text="The New Yorker" title="The New Yorker" type="rss" xmlUrl="https://help.feedx.net/rss/newyorker.xml" htmlUrl="https://www.newyorker.com/"/>
       <outline text="The Economist Print edition" title="The Economist Print edition" type="rss" xmlUrl="https://feedx.net/rss/economistp.xml" htmlUrl="https://www.economist.com/"/>
       <outline text="CNN" title="CNN" type="rss" xmlUrl="https://feedx.net/rss/cnn.xml" htmlUrl="https://feedx.net/rss/cnn.xml"/>
       <outline text="ChinaDaily双语" title="ChinaDaily双语" type="rss" xmlUrl="https://feedx.net/rss/cddual.xml" htmlUrl="https://language.chinadaily.com.cn/"/>
@@ -56,20 +57,20 @@
       <outline text="C.K" title="C.K" type="rss" xmlUrl="https://www.creat.kim/feed/" htmlUrl="https://www.creat.kim/"/>
     </outline>
     <outline text="高分电影" title="高分电影">
-      <outline text="开眼" title="开眼" type="rss" xmlUrl="https://feedx.net/rss/kaiyan.xml" htmlUrl="http://www.kaiyanapp.com/"/>
       <outline text="电影天堂" title="电影天堂" type="rss" xmlUrl="https://rss.creat.kim/dytt" htmlUrl="http://www.dytt8.net/"/>
+      <outline text="开眼" title="开眼" type="rss" xmlUrl="https://feedx.net/rss/kaiyan.xml" htmlUrl="http://www.kaiyanapp.com/"/>
       <outline text="3dmgame" title="3dmgame" type="rss" xmlUrl="https://feedx.net/rss/3dmgame.xml" htmlUrl="http://www.3dmgame.com/"/>
       <outline text="电影 - 高清MP4吧" title="电影 - 高清MP4吧" type="rss" xmlUrl="https://rss.creat.kim/mp4ba/1" htmlUrl="http://www.mp4ba.com/?m=vod-type-id-1.html"/>
       <outline text="高清电台" title="高清电台" type="rss" xmlUrl="https://rss.creat.kim/gaoqing/latest" htmlUrl="https://gaoqing.fm/"/>
       <outline text="豆瓣电影周榜" title="豆瓣电影周榜" type="rss" xmlUrl="https://feedx.net/rss/doubanmvweek.xml" htmlUrl="https://www.douban.com/"/>
     </outline>
     <outline text="图说天下" title="图说天下">
-      <outline text="NASA" title="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/"/>
       <outline text="必应今日美图国际版" title="必应今日美图国际版" type="rss" xmlUrl="https://feedx.net/rss/bingenwallpaper.xml" htmlUrl="http://bing.com/"/>
+      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="https://feedx.net/rss/natgeo.xml" htmlUrl="https://www.nationalgeographic.com/"/>
+      <outline text="NASA" title="NASA" type="rss" xmlUrl="https://feedx.net/rss/nasa.xml" htmlUrl="https://www.nasa.gov/"/>
       <outline text="摄影世界" title="摄影世界" type="rss" xmlUrl="https://feedx.net/rss/photoworld.xml" htmlUrl="https://www.photoworld.com.cn/"/>
       <outline text="喷嚏图卦" title="喷嚏图卦" type="rss" xmlUrl="https://feedx.net/rss/pentitugua.xml" htmlUrl="https://feedx.net/rss/pentitugua.xml"/>
       <outline text="每日环球视野" title="每日环球视野" type="rss" xmlUrl="http://feedx.net/rss/idaily.xml" htmlUrl="http://m.idai.ly/"/>
-      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="https://feedx.net/rss/natgeo.xml" htmlUrl="https://www.nationalgeographic.com/"/>
       <outline text="必应今日美图" title="必应今日美图" type="rss" xmlUrl="https://feedx.net/rss/bingwallpaper.xml" htmlUrl="http://bing.com/"/>
       <outline text="攝影札記" title="攝影札記" type="rss" xmlUrl="https://help.feedx.net/rss/photoblog.xml" htmlUrl="https://photoblog.hk/"/>
     </outline>
